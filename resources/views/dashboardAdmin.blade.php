@@ -1,0 +1,2 @@
+@extends('template')
+@section('konten')
